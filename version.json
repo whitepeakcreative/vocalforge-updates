@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "downloadUrl": "https://whitepeakcreative.gumroad.com/l/vocalforge",
   "releaseNotes": "Initial release of VocalForge!\n\n✨ FEATURES:\n- 9 professional vocal processing modules\n- 77 hand-crafted factory presets across 6 genres\n- Drag-and-drop module reordering\n- Dual interface (Simple + Advanced modes)\n- Ultra-low 21-23ms latency pitch correction\n- Professional de-esser algorithm\n- Multiband compression\n- Full reverb, delay, and stereo widening\n\n🎯 PERFECT FOR:\n- Pop, Hip-Hop, R&B, Rock, Electronic, Country\n- Podcasting and audiobooks\n- Live streaming and content creation\n\n🖥️ COMPATIBILITY:\n- Windows 10+ (VST3)\n- macOS 10.13+ (VST3 + AU)\n- Intel & Apple Silicon support"
 }
