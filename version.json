@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "downloadUrl": "https://app.gumroad.com/library",
-  "releaseNotes": "• Complete UI redesign with new visual assets\n• Fixed waveform flickering in Noise Removal & De-esser modules when bypassed\n• Added scalable GUI - click the VocalForge logo to resize the plugin (50% to 200%)\n• Improved module positioning and layout consistency\n• Enhanced visual feedback for SOLO button in De-esser\n• Updated LED button styling across all modules"
+  "releaseNotes": "• Bug Fixes are the main reason for this update\n• .AU file formats not showing drop downs has been fixed\n• Mac specific crash errors have been fixed and timercallouts have been improved\n• GUI scaling fixes (Some DAW wouldn't allow the plugins GUI to scale properly with the plugin window)\n• Dialog boxes showing behind the plugin rather then in front (Save as, Duplicate, Advance button on Tone Shaping, Updater window)"
 }
